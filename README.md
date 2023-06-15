@@ -1,8 +1,8 @@
 ## Roberto Modenezi Neto 👋
 
-### Hello welcome to my github 🐱‍🏍
+### Hello welcome to my Github 🐱‍🏍
 
--☕ Eu estou atualmente estudando programação 
--💻 Atualmente estou estudando, HTML, CSS, Javascript, NodeJS, SQL e GIT
+- ☕ Eu estou atualmente estudando programação 
+- 💻 Atualmente estou estudando, HTML, CSS, Javascript, NodeJS, SQL e GIT
 
 
