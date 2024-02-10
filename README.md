@@ -38,4 +38,9 @@
 >>  <img src="https://raw.githubusercontent.com/natanfoleto/natanfoleto/43a0601f050e4ecea3ac787c4d26dcf7edb47e5e/assets/gitlab.svg" height="40px"/>&nbsp;
 >></div>
 
+## Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/roberto-modenezi-neto-b5a587285/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+
 <br>
