@@ -1,8 +1,8 @@
 ## Roberto Modenezi Neto 👋
 
-### Hello welcome to my Github 🐱‍🏍
+### Hi, welcome to my GitHub where I share my work and projects.🐱‍🏍
 
- Atualmente Estudante de **Sistemas de Informação**, **Programação** e **Desenvolvimento Web Full-Stack**.
+ Currently Student of **Information Systems**, **Programming** and **Full-Stack Web Development**.
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -38,7 +38,7 @@
 >>  <img src="https://raw.githubusercontent.com/natanfoleto/natanfoleto/43a0601f050e4ecea3ac787c4d26dcf7edb47e5e/assets/gitlab.svg" height="40px"/>&nbsp;
 >></div>
 
-## Você também me encontra em:
+## You can also find me at :
 &nbsp;<a href="https://www.linkedin.com/in/roberto-modenezi-neto-b5a587285/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
